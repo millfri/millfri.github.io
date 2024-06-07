@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://millfri.github.io/sitemap/sitemap.txt
